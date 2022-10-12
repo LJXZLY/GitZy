@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.Scanner;   //这是测试类
 
 public class text {
     public static void main(String[] args) {
